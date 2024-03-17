@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.App {
+  margin: 60px 50px 0px 50px;
+  text-align: center;
+}
+
+.ul-list {
+  list-style-type: none;
+}
+
+.list {
+  margin-top: 5px;
+  padding: 10px;
+  color: black;
+  background-color: aliceblue;
+  font-family: "Times New Roman", Times, serif;
+  font-size: large;
+}
+.logo {
+  background-color: antiquewhite;
+  padding: 30px;
+  font-size: 40px;
+  color: brown;
+}
+.form {
+  background-color: blueviolet;
+}
+
+.input {
+  padding: 10px 40px;
+  border-radius: 20px;
+}
+input[type="text"] {
+  font-size: large;
+
+  color: #7743db;
+}
+
+.btn {
+  padding: 10px 20px;
+  border-radius: 20px;
+}
