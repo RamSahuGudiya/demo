@@ -1,0 +1,24 @@
+{
+  "team": [
+    {
+      "name": "Ram Sahu",
+      "designation": "Frontend Developer",
+      "image": "https://ramsahuportfolio.netlify.app/images/ramsahu-profile-ai1.jpg"
+    },
+    {
+      "name": "Veera Babu",
+      "designation": "FullStack",
+      "image": "https://demytestimonial.000webhostapp.com/veera.png"
+    },
+    {
+      "name": "Aarthi",
+      "designation": "Team lead",
+      "image": "https://lh3.googleusercontent.com/pw/AP1GczNUJHVuSZdzT_vMZuRqqMLCBqMWULurSr9c9lIETspcx_fMba_F0yIq6jl0zfEuHh0FNb4XwHjm03icpovAjF1hRgv8a_CAweFxsM1gnRIVQ8Y7zCZHG0SIf_scqqMyTPBtAJB0UaFkozojqd9emrrUA87Flo5t73Jwx24H9Zy6Ig3jHTOw7GbF7FMdJRf9-njA1dCVQcStrJd4pQyo3DwdMao7k59qcWJXRUtJ0qIjlmYn_JeXeNdZD4207PdEVhUaZxJ4m0l_qlRRKyiDvEyR-TWHJZTqbOkeupea2uEP4s1YV3TuHMYokLiF003UIHvbifEw8eudsn3upJq2iJA1nEAzkxgxrHPxke-oYDxQHhUyel51ZakRwt7SONE6ZgHU_7hMSediVXhiGgmHu-jVhYK_uPVCH8lwpY9ppCM-8CV7PS_imqzG_2rkL191Ui01Wbk8Dr8r-Bv2sstakZK7XobICcIvU0XpX9fUh5Yvb_WziCXFXx1B0TBAyr1i7SRdAgyNaMiU92Xl-RrBmOzyt0Pylh_UZfjPHUwNth7Rliuh2DnIbh5SUsm0EKUttcvKpaE74ZCjsJdX9unX1Enr7fwu0Ook_PV9LwsWDDhsItIe-whJzYi5SPUEm0XdOQLn4YuvW_9omOx9d4Ej9kR8EpczQdHCPZqBC8rlcflkkEEgynWAnvoAB9FRX16iqhGc5D0cgNlLElzod7btEoHv-Y0OSutG7OC2WwqVRG1jIMWSlXsfIob6jyq4ZYl6w4-oyijpkiqoA5UGzurzJ_YcmVbmRHD-VqI9pyyspelpFBc4th13cob0JPdhuOcYKoA8MvMpY0dO4-i3pJKtEs8u7f9Kz6fcGR6STydnz_MmhcUly-p5NKJlJPM56M6qNmI7y8sqW2iiTE0Y06n6lJ-BZYnLhTJ8F_k7a85QYejXFALklRcd6awQzhikSLv7zYWyFthw_EQoEoFQ-Oya-CiEA-0qS-7nzZInVLfmrjJND3RsKD-GjAZOOVrRKxvzAWY=w488-h869-s-no-gm?authuser=0"
+    },
+    {
+      "name": "Some Random",
+      "designation": "Backend",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cmFuZG9tJTIwcGVvcGxlfGVufDB8fDB8fHww"
+    }
+  ]
+}
